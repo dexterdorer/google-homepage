@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles/Stylesheet.css">
+	<title>My Google Homepage</title>
+</head>
+<body>
+	<div class="nav">
+		<ul>
+			<li><a href="google.com">Dexter</a></li>
+			<li><a href="google.com">Gmail</a></li>
+			<li><a href="google.com">Images</a></li>
+		</ul>
+	</div>
+	<div class="logo"><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
+	</div>
+	<div class="Search_Box">
+		<form>
+			<input type="text" name="firstname">
+		</form>
+	</div>
+	<div class="buttons">
+		<center>
+		<button id="search" type="button">Google Search</button>
+		<button id="lucky" type="button">I'm Feeling Lucky</button>
+		<center>
+	</div>
+	<div class="footer">
+		<ul id="left">
+			<li>Advertising</li>
+			<li>Business</li>
+			<li>About</li>
+		</ul>
+		<ul id="right">
+			<li>Privacy</li>
+			<li>Terms</li>
+			<li>Settings</li>
+		</ul>
+	</div>
+
+</body></html>
